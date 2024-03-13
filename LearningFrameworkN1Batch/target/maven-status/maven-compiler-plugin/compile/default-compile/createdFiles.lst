@@ -1,0 +1,10 @@
+com\elementRepository\HomePage.class
+com\utilityClasses\JavaScriptUtil.class
+com\basepackage\BaseClass.class
+com\elementRepository\LoginPage.class
+com\utilityClasses\ActionsUtil.class
+com\basepackage\BasePage.class
+com\elementRepository\WelcomePage.class
+com\utilityClasses\DataUtilityClass.class
+com\elementRepository\ProductDetailsPage.class
+com\utilityClasses\FrameworkConstants.class
